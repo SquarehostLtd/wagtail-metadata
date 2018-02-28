@@ -17,9 +17,9 @@ setup(
     author_email='liam@takeflight.com.au',
     url='https://github.com/takeflight/wagtail-metadata',
 
-    install_requires=[
-        'wagtail>=1.12,<=1.9999',
-    ],
+    #install_requires=[
+    #    'wagtail>=1.12,<=1.9999',
+    #],
     zip_safe=False,
     license='BSD License',
 
